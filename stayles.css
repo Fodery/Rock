@@ -1,0 +1,57 @@
+html, body {
+    margin:0px;
+    height:100%;
+  }
+
+  body {
+    background-image: url(images/background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(8px);
+  }
+
+  .title {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+  }
+
+  .end {
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    font-weight: bold;
+  }
+  
+.wink {
+    width: 35px;
+    height: auto;
+    margin-top: -9px;
+}
+
+.gif {
+    width: 175px;
+    height: auto;
+    border-radius: 33px;
+    margin: 30px;
+}
+
+.quot, .main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: wheat;
+    border-radius: 30px;
+    margin: 30px;
+}
+
+
+.tq {
+    font-weight: bold;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    
+}
+
