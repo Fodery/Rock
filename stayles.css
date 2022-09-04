@@ -85,13 +85,18 @@ button:hover {
 
 .score {
     display: flex;
-    justify-content:space-around;
+    justify-content:center;
     font-size: x-large;
     font-weight: bold;
     padding: 15px;
 }
 
+.sco {
+    margin: 20px;
+}
+
 .gametext {
     display: flex;
     justify-content: center;
+    padding-right: 180px;
 }
